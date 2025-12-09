@@ -1,0 +1,23 @@
+{
+  "LK": {
+    "country": "Sri Lanka",
+    "employeeEPF": 8,
+    "employerEPF": 12,
+    "etf": 3,
+    "gratuityRatePerYear": 0.5
+  },
+  "IN": {
+    "country": "India",
+    "employeeEPF": 12,
+    "employerEPF": 12,
+    "etf": 0,
+    "gratuityRatePerYear": 0.5
+  },
+  "MY": {
+    "country": "Malaysia",
+    "employeeEPF": 11,
+    "employerEPF": 13,
+    "etf": 0,
+    "gratuityRatePerYear": 0.5
+  }
+}
