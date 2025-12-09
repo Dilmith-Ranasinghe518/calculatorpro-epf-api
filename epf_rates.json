@@ -1902,17 +1902,7 @@
     "minWageLaw": true,
     "currencyCode": "SRD"
   },
-  "SZ": {
-    "country": "Eswatini",
-    "schemeName": "Social Security",
-    "employeeRate": 5.0,
-    "employerRate": 5.0,
-    "etf": 0.0,
-    "gratuityRatePerYear": 0.1,
-    "incomeTaxRate": 10.0,
-    "minWageLaw": true,
-    "currencyCode": "SZL"
-  },
+
   "SE": {
     "country": "Sweden",
     "schemeName": "Pension + Social Security",
