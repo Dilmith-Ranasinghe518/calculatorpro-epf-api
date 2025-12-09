@@ -1055,17 +1055,6 @@
     "minWageLaw": false,
     "currencyCode": "KPW"
   },
-  "KR": {
-    "country": "South Korea",
-    "schemeName": "NPS Pension",
-    "employeeRate": 4.5,
-    "employerRate": 4.5,
-    "etf": 0.0,
-    "gratuityRatePerYear": 0.5,
-    "incomeTaxRate": 6.0,
-    "minWageLaw": true,
-    "currencyCode": "KRW"
-  },
   "KW": {
     "country": "Kuwait",
     "schemeName": "PIFSS",
